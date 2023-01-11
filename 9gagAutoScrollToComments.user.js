@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         9gag auto-scroll to comments
+// @name         9gagAutoScrollToComments
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Automagically shows you the comment section, instead of the new *related* one
