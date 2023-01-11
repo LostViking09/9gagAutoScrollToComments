@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         9gagAutoScrollToComments
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/LostViking09/9gagAutoScrollToComments/
+// @version      0.12
+// @updateURL    https://github.com/LostViking09/9gagAutoScrollToComments/raw/main/9gagAutoScrollToComments.user.js
+// @downloadURL  https://github.com/LostViking09/9gagAutoScrollToComments/raw/main/9gagAutoScrollToComments.user.js
 // @description  Automagically shows you the comment section, instead of the new *related* one
 // @author       LostViking09
 // @match        https://9gag.com/gag/*
