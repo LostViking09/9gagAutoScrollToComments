@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         9gagAutoScrollToComments
 // @namespace    https://github.com/LostViking09/9gagAutoScrollToComments/
-// @version      0.13
+// @version      0.2
 // @updateURL    https://github.com/LostViking09/9gagAutoScrollToComments/raw/main/9gagAutoScrollToComments.user.js
 // @downloadURL  https://github.com/LostViking09/9gagAutoScrollToComments/raw/main/9gagAutoScrollToComments.user.js
 // @description  Automagically shows you the comment section, instead of the new *related* one
